@@ -11,6 +11,23 @@
 
 ---
 
+## 📥 Tải về bản thành phẩm / Direct Downloads (v1.0.0)
+
+[![Download Installer](https://img.shields.io/badge/Download-Installer%20(.exe)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/longhsiaaa/lnh_netscan/releases/download/v1.0.0/LNH_NetScan_Setup_v1.0.0.exe)
+[![Download Portable](https://img.shields.io/badge/Download-Portable%20(.exe)-28A745?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/longhsiaaa/lnh_netscan/releases/download/v1.0.0/LNH_NetScan.exe)
+[![Download ZIP](https://img.shields.io/badge/Download-Portable%20(.zip)-6F42C1?style=for-the-badge&logo=files&logoColor=white)](https://github.com/longhsiaaa/lnh_netscan/releases/download/v1.0.0/LNH_NetScan_Portable_Win64.zip)
+
+| Phiên bản / Edition | Định dạng | Dung lượng | Mô tả / Description | Link tải trực tiếp |
+| :--- | :---: | :---: | :--- | :---: |
+| **Windows Installer** | `.exe` | ~33 MB | Bộ cài đặt Windows Setup Wizard, tự tạo shortcut Desktop & gỡ cài đặt | [**Tải Installer (.exe)**](https://github.com/longhsiaaa/lnh_netscan/releases/download/v1.0.0/LNH_NetScan_Setup_v1.0.0.exe) |
+| **Windows Portable** | `.exe` | ~31 MB | Bản chạy ngay 1 file duy nhất, không cần cài đặt, không cần Python | [**Tải Portable (.exe)**](https://github.com/longhsiaaa/lnh_netscan/releases/download/v1.0.0/LNH_NetScan.exe) |
+| **Windows Portable (.zip)** | `.zip` | ~31 MB | Gói nén chứa file thực thi và tài liệu hướng dẫn | [**Tải ZIP**](https://github.com/longhsiaaa/lnh_netscan/releases/download/v1.0.0/LNH_NetScan_Portable_Win64.zip) |
+| **Linux Ubuntu** | `.deb` / binary | - | Đóng gói nhanh bằng `./build_deb.sh` hoặc `./build_linux.sh` | [**Xem hướng dẫn**](#-trên-linux-ubuntu) |
+
+👉 **Trang phát hành chính thức:** [https://github.com/longhsiaaa/lnh_netscan/releases](https://github.com/longhsiaaa/lnh_netscan/releases)
+
+---
+
 ## 🌐 Languages / Ngôn ngữ
 - [Tiếng Việt](#-ti%E1%BA%BFng-vi%E1%BB%87t)
 - [English](#-english)
